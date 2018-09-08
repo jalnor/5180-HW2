@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Area Calculator</string>
+    <string name="tv2">Length 2:</string>
+    <string name="tv1">Length 1:</string>
+    <string name="shape" />
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="tv_results" />
+    <string name="tInput1_error">Please enter a number for length 1</string>
+    <string name="tInput2_error">Please enter a number for length 2</string>
+    <string name="tv_shape">Please select a shape</string>
+</resources>
